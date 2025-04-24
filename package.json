@@ -39,7 +39,7 @@
     "react-favicon": "0.0.14",
     "react-modal": "^3.5.1",
     "react-redux": "^5.0.7",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "redux": "^4.0.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.21.0",
